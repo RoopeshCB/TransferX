@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<remote>
+	<system>
+		<machine>dlhl2120.dlh.st.com</machine>
+		<user>roopeshb</user>
+		<password>oiprocs69</password>
+		<path>/home/roopeshb/temp/</path>
+		<encrypted>true</encrypted>
+		<execute>true</execute>
+		<returnfile>wholist.txt</returnfile>
+	</system>
+	<system>
+		<machine>eul1111.sgp.st.com</machine>
+		<user>roopeshb</user>
+		<password>hello</password>
+		<path>/home/roopeshb/temp/</path>
+		<encrypted>false</encrypted>
+		<execute>false</execute>
+		<returnfile>test.txt</returnfile>
+	</system>
+</remote>

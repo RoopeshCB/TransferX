@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<log>
+		<logpath>C:\\Users\\roopeshb\\Code\\Java\\File Transfer &amp; Execute\\logs</logpath>
+		<logname>scp.log</logname>
+	</log>
+	<local>
+		<!--  <inputpath>C:\\Users\\roopeshb\\Code\\ARIS\\ClientUserAccess\\input</inputpath> -->
+		<inputpath>C:\\Users\\roopeshb\\Code\\Java\\File Transfer &amp; Execute\\input\\simple.sh</inputpath>
+		<!-- <inputfilename>arisaccountlog.xml</inputfilename> -->
+		<file.pattern>*.*</file.pattern>
+		<returnpath>C:\\Users\\roopeshb\\Code\\Java\\File Transfer &amp; Execute\\output\\</returnpath>
+	</local>
+	<remote>
+		<remote.list.path>C:\\Users\\roopeshb\\Code\\Java\\File Transfer &amp; Execute\\config\\remote.xml</remote.list.path>
+	</remote>
+</config>

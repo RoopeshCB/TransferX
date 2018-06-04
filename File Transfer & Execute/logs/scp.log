@@ -1,0 +1,18 @@
+Remote Transfer Application Started : [Thu May 24 17:19:02 IST 2018]
+Logging Configuration Information...
+Input File [C:\\Users\\roopeshb\\Code\\Java\\File Transfer & Execute\\input\\simple.sh]
+Return Path [C:\\Users\\roopeshb\\Code\\Java\\File Transfer & Execute\\output\\]
+Log File   : [C:\\Users\\roopeshb\\Code\\Java\\File Transfer & Execute\\logs\scp.log]
+Loading Remote Systems Information...
+Machine : [dlhl2120.dlh.st.com] User : [roopeshb] Path : [/home/roopeshb/temp/] Encrypted : [true] Execute : [true] Return File : [wholist.txt]
+Machine : [eul1111.sgp.st.com] User : [roopeshb] Path : [/home/roopeshb/temp/] Encrypted : [false] Execute : [false] Return File : [test.txt]
+
+Processing Remote System : [Machine : [dlhl2120.dlh.st.com] User : [roopeshb] Path : [/home/roopeshb/temp/] Encrypted : [true] Execute : [true] Return File : [wholist.txt]]
+Local File [simple.sh] Copied to Remote Folder : [/home/roopeshb/temp/]
+Remote Execution At : [/home/roopeshb/temp/] for Script : [simple.sh]
+Exit-Status from Execution : [0]
+Remote File : [simple.sh] Executed in Remote Directory : [/home/roopeshb/temp/]
+Getting Remote File : [/home/roopeshb/temp/\wholist.txt] Local File : [wholist.txt] into Local Directory : [C:\\Users\\roopeshb\\Code\\Java\\File Transfer & Execute\\output\\]
+Remote File : [wholist.txt] Copied to Local Directory : [C:\\Users\\roopeshb\\Code\\Java\\File Transfer & Execute\\output\\]
+Processing Remote System : [Machine : [eul1111.sgp.st.com] User : [roopeshb] Path : [/home/roopeshb/temp/] Encrypted : [false] Execute : [false] Return File : [test.txt]]
+Remote Transfer Application Finished : [Thu May 24 17:19:05 IST 2018]
