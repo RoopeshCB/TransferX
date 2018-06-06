@@ -9,7 +9,6 @@ import org.xml.sax.SAXException;
 import rcb.file.trasnfer.scp.refactored.readers.Reader;
 import rcb.file.trasnfer.scp.refactored.readers.XMLReader;
 
-
 public final class Config {
 	private static final String DEFAULT_CONFIG_XML = "config.xml".intern();
 
